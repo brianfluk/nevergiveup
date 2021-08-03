@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/16728073/127941127-6d572636-1b21-481a-
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+No particular reqirements.
 
 
 ## Release Notes
