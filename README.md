@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/16728073/127941127-6d572636-1b21-481a-
 
 ## Requirements
 
-No particular reqirements.
+No particular requirements.
 
 
 ## Release Notes
