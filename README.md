@@ -1,6 +1,6 @@
 # Never Give Up README
 
-Open the lyrics to Never Gonna Give You Up by Rick Astley directly from VS Code.
+Open the song and lyrics to Never Gonna Give You Up by Rick Astley directly from VS Code.
 
 Whenever you feel like giving up or deserting your code, motivate yourself by hearing the timeless classic.
 
