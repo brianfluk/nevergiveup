@@ -1,4 +1,4 @@
-# Never Give Up README
+# Never Gonna Give You Up README
 
 Open the song and lyrics to Never Gonna Give You Up by Rick Astley directly from VS Code.
 
